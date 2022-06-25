@@ -1,0 +1,5 @@
+Trends example:
+
+```js
+<Trends />
+```

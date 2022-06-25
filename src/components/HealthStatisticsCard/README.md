@@ -1,0 +1,5 @@
+HealthStatisticsCard example:
+
+```jsx
+<HealthStatisticsCard />
+```
